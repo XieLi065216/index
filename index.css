@@ -1,0 +1,11 @@
+div {
+    height: 200px;
+    background: linear-gradient(45deg, #ff0000 0%, #ffb600 11%, #fff600 22%, #a5ff00 33%, #00a9ff 44%, #0400ff 55%, #8a00fc 66%, #ff00e9 77%, #ff0059 88%, #ff0000 100%);
+}
+
+div>p {
+    line-height: 35px;
+    text-align: center;
+    color: pink;
+    font-size: 20px;
+}
